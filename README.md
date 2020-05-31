@@ -1,2 +1,3 @@
-# DjangoGirlsTutorial
-Django Girls Tutorial test code 
+# GlanceDjango
+
+Let's try dJango throught making a simple admin site for beginner 
