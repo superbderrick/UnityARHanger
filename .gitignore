@@ -6,17 +6,17 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
-UnityStudy/[Ll]ibrary/
-UnityStudy/[Tt]emp/
-UnityStudy/[Oo]bj/
-UnityStudy/[Bb]uild/
-UnityStudy/[Bb]uilds/
-UnityStudy/[Ll]ogs/
-UnityStudy/[Uu]ser[Ss]ettings/
+UnityARHanger/[Ll]ibrary/
+UnityARHanger/[Tt]emp/
+UnityARHanger/[Oo]bj/
+UnityARHanger/[Bb]uild/
+UnityARHanger/[Bb]uilds/
+UnityARHanger/[Ll]ogs/
+UnityARHanger/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
-/[Mm]emoryCaptures/
+UnityARHanger/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
